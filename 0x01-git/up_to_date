@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 cat >> up_to_date
+=======
+>>>>>>> db57d7057da763cffa95e61e91a6b60801ecde89
 cat >>
+touch
